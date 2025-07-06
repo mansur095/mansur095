@@ -8,7 +8,7 @@ With two years of programming experience, I began with Python but pivoted to fro
 
 RU:Я изучаю языки программирования уже около двух лет. Изначально я учил Python, но затем заинтересовался фронтендом и сосредоточился на нём. Мне больше понравилась фронтенд-разработка, поэтому я переключился на неё.
 
-* 🖥️  See my portfolio at [My projects](http://github.com/mansur095)
+* 🖥️  See my portfolio at [My projects]([http://github.com/mansur095](https://github.com/mansur095?tab=repositories))
 * ✉️  You can contact me at [dev.mansurhus@mail.ru](mailto:dev.mansurhus@mail.ru)
 
 ### Skills
