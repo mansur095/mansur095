@@ -4,10 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 i'm Frontend developer
 ----------------------
 
-With two years of programming experience, I began with Python but pivoted to frontend development due to a stronger passion for building user interfaces.
-
-RU:Я изучаю языки программирования уже около двух лет. Изначально я учил Python, но затем заинтересовался фронтендом и сосредоточился на нём. Мне больше понравилась фронтенд-разработка, поэтому я переключился на неё.
-
 * 🖥️  See my portfolio at [My projects](https://github.com/mansur095?tab=repositories)
 * ✉️  You can contact me at [dev.mansurhus@mail.ru](mailto:dev.mansurhus@mail.ru)
 
